@@ -150,9 +150,4 @@
     cursor: pointer;
     pointer-events: none;
   }
-  /* Transition */
-  
-  .select:hover::after {
-    transform: scale(1.5);
-  }
   
